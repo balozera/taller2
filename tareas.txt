@@ -1,0 +1,6 @@
+Revisión mensual,Revisar reportes financieros mensuales,01/04/2025,05/04/2025,false,Vicho.cs@gmail.com
+Actualización sistema,Actualizar módulos principales,02/04/2025,06/04/2025,true,Vicho.cs@gmail.com
+Preparar informe,Redactar informe semanal de avances,03/04/2025,07/04/2025,false,Sepu@gmail.com
+Documentar código,Generar documentación técnica,04/04/2025,08/04/2025,false,Sepu@gmail.com
+Revisión técnica,Revisar estado del hardware,05/04/2025,09/04/2025,true,Alonx@gmail.com
+Control calidad,Control de calidad del último despliegue,06/04/2025,10/04/2025,false,Alonx@gmail.com
