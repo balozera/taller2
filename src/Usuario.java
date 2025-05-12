@@ -14,7 +14,7 @@ public class Usuario {
     public String getNombreUsuario() {
         return nombreUsuario;
     }
-    public String getContrasena() {
+    public String getContraseña() {
         return contraseña;
     }
     public String getCorreo() {

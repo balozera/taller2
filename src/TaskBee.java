@@ -101,7 +101,7 @@ public class TaskBee {
         boolean validado = false;
 
         for (Usuario u : usuarios) {
-            if (u.getNombreUsuario().equals(usuario) && u.getContrasena().equals(clave)) {
+            if (u.getNombreUsuario().equals(usuario) && u.getContraseña().equals(clave)) {
                 validado = true;
                 if (u.isAdmin()) {
                     menuAdmin(u);
