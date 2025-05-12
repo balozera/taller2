@@ -1,3 +1,8 @@
+
+/**
+ * Representa una tarea asignada a un usuario.
+ */
+
 public class Tarea {
     private String titulo;
     private String descripcion;

@@ -1,3 +1,8 @@
+
+
+/**
+ * Representa un usuario del sistema, ya sea admin o usuario común.
+ */
 public class Usuario {
     private String nombreUsuario;
     private String contraseña;

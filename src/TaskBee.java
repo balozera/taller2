@@ -1,3 +1,9 @@
+
+
+/**
+ * Clase principal que controla toda la aplicación.
+ */
+
 import java.io.*;
 import java.util.*;
 
@@ -6,6 +12,10 @@ public class TaskBee {
     private ArrayList<Tarea> tareas = new ArrayList<>();
     private Scanner scanner = new Scanner(System.in);
 
+
+    /**
+     * Inicia el sistema cargando los datos y mostrando el menú principal.
+     */
     public void iniciar() {
         leerUsuarios();
         leerTareas();
